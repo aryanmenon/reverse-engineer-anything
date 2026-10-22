@@ -1,0 +1,15 @@
+{
+  "source": "pi-neuralwatt-provider@1.19.0 (MIT, third-party client), docs/sse-payloads.md, ': energy' SSE comment example",
+  "payload": {
+    "energy_joules": 20.44,
+    "energy_kwh": 5.679e-06,
+    "avg_power_watts": 4087.0,
+    "duration_seconds": 1.479,
+    "attribution_method": "prorated_token_pool_weighted_multi_gpu_8",
+    "attribution_ratio": 0.0034,
+    "carbon_g_co2eq": 0.0002726,
+    "grid_carbon_intensity_gco2perkwhr": 48.0,
+    "grid_id": "FI",
+    "carbon_source": "agent_cache"
+  }
+}
